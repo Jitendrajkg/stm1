@@ -1,0 +1,46 @@
+
+
+
+load balancer
+
+
+ubuntu 
+$ apt update
+
+$ apt install nginx 
+
+
+
+systemctl status nginx
+systemctl enable nginx
+
+
+
+cd /var/www/html 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
